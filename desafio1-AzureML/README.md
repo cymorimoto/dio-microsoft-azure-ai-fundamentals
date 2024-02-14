@@ -23,5 +23,9 @@
    "GlobalParameters": 1.0
  }
 ```
-## Saida
+## Saída
 A previsão gerada foi: 352,29
+
+## Referências
+Passo a passo do laboratório: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+Conceitos de endpoint: https://learn.microsoft.com/pt-br/azure/machine-learning/concept-endpoints?view=azureml-api-2
