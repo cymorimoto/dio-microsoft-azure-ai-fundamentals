@@ -1,1 +1,3 @@
-# dio-microsoft-azure-ai-fundamentals
+# Bootcamp Microsoft Azure AI Fundamentals 
+
+DIO: https://www.dio.me/
