@@ -12,7 +12,5 @@
 ![image](https://github.com/cymorimoto/dio-microsoft-azure-ai-fundamentals/assets/50521401/4e238bfc-4608-4d7a-8d75-571876005c9b)
 
 
-Acessa o Azeru Cognitive Search
-
 # Referências:
 * Azure AI Search index: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html
