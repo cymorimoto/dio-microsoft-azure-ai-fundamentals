@@ -1,5 +1,5 @@
 # Trabalhando com Machine Learning na Prática no Azure ML
-1. Acessar o portal da Azure (com uma conta/subscrição):https://portal.azure.com/ 
+1. Acessar o portal da Azure (com uma conta/subscrição): https://portal.azure.com/ 
 2. Criar grupo de recursos
 3. Acessar os serviços e aprendizado de máquina no "Azure Machine Learning" (buscar pelo portal Azure)
 4. Acessar o Azure Machine Learning studio: https://ml.azure.com/
