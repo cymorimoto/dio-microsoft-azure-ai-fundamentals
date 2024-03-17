@@ -5,7 +5,7 @@
 4. Criar serviço 'IA search'.
 5. Criar storage.
 ![image](https://github.com/cymorimoto/dio-microsoft-azure-ai-fundamentals/assets/50521401/8d6ac813-f4c0-463e-86b9-8ea19adeb546)
-6. Carregar (upload) de dados de exemplo de reviões do café (storage/container).
+6. Carregar (upload) de dados de exemplo de reviões do café (storage/container): https://aka.ms/mslearn-coffee-reviews.
 7. Acessar o serviço de IA search e importar os dados (acesso e processamento do texto: Azure Blob Storage)
 
 9. Usar o Search Explorer para buscar dados de sentimento, localização, entre outros, nos dados.
