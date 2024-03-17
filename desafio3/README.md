@@ -19,6 +19,7 @@
 
 ![image](https://github.com/cymorimoto/dio-microsoft-azure-ai-fundamentals/assets/50521401/417f6a44-49b5-4cbc-9117-4f08e2ffe306)
 
+A partir dos serviços de análise de serviços é possível avaliar a satisfação do cliente, de modo que possam ser verificados tópicos de melhoria ou áreas de insatisfação do negócio.
 
 # Referências
 * Speech Studio: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/09-speech.html
