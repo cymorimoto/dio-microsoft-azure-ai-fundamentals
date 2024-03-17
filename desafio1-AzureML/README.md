@@ -8,7 +8,11 @@
    - Criar ativo de dados (configuração e formatação)
    - Configurar a tarefa
    - Executar a tarefa
+     ![image](https://github.com/cymorimoto/dio-microsoft-azure-ai-fundamentals/assets/50521401/a40a5ebd-334d-4d18-a8b8-0b0d869f390a)
+
 6. Deploy e teste do modelo
+![image](https://github.com/cymorimoto/dio-microsoft-azure-ai-fundamentals/assets/50521401/2c80410c-fa4e-4e13-b97a-ee3d8e48ad58)
+
    
 ## Teste do Modelo
   ```{
