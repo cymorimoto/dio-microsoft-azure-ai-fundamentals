@@ -18,5 +18,5 @@
 11. Na área de atributos é apresentada a legenda.
 
 # Referências
-Face: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
-Image Analysis: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
+* Face: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html
+* Image Analysis: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/03-image-analysis.html
